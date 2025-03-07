@@ -1,0 +1,6 @@
+# Example Telegram links file
+# One link per line, no comments in the actual file
+
+https://t.me/telegram
+https://t.me/durov
+https://t.me/joinchat/AAAAAEzF-9bFTVn-v1ta-A 
